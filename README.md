@@ -1,2 +1,2 @@
-# nebulanotes
-I built this blogging website using html , css and javascript
+# blog-postger
+A Project for Udacity's Frontend Developer nanodegree.
